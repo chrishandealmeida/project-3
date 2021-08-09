@@ -1,6 +1,6 @@
 # Project 3: Bitcoin Genie 9000
 
-![Bot_Image](/screenshots/trading_bot_9000.jpeg)
+![Bot_Image](images/trading_bot_9000.jpeg)
 
 ---
 ### Team Members: Chrishan de Almeida, Greg Buiter
